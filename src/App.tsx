@@ -56,7 +56,7 @@ function App() {
                className="flex items-center space-x-2"
              >
                <Building2 className="w-8 h-8 text-primary-400" />
-               <span className="text-xl font-bold text-white">Bissovle</span>
+               <span className="text-xl font-bold text-white">Bissolve</span>
              </motion.div>
                          <motion.div 
                initial={{ opacity: 0, x: 20 }}
@@ -169,8 +169,8 @@ function App() {
               transition={{ duration: 0.8 }}
             >
               <h2 className="text-4xl md:text-5xl font-bold text-white mb-6">
-                Why Choose
-                <span className="gradient-text"> Bissovle</span>
+                                 Why Choose
+                 <span className="gradient-text"> Bissolve</span>
               </h2>
               <p className="text-xl text-gray-300 mb-8">
                 Join thousands of small businesses that have transformed their digital presence with our AI toolkit.
@@ -258,7 +258,7 @@ function App() {
           <div className="flex flex-col md:flex-row justify-between items-center">
                          <div className="flex items-center space-x-2 mb-4 md:mb-0">
                <Building2 className="w-6 h-6 text-primary-400" />
-               <span className="text-white font-semibold">Bissovle</span>
+               <span className="text-white font-semibold">Bissolve</span>
              </div>
             <div className="flex space-x-6 text-gray-400">
               <a href="#" className="hover:text-white transition-colors">Privacy</a>
