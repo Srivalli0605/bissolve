@@ -10,8 +10,11 @@ import {
   Users,
   TrendingUp
 } from 'lucide-react'
+import { useNavigate } from "react-router-dom"; // Add at top
 
 function App() {
+  const navigate = useNavigate();
+
   const features = [
     {
       icon: <Globe className="w-6 h-6" />,
@@ -97,6 +100,8 @@ function App() {
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
                 className="btn-primary text-xl px-16 py-8"
+                onClick={() => navigate("/signup")}
+
               >
                 Get Started
               </motion.button>
