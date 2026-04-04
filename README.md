@@ -1,11 +1,14 @@
 🚀 **BizSolve AI**
+
 Your AI-Powered Marketing Partner for Business Growth
 
 🌟 **Overview**
+
 BizSolve AI is an intelligent, all-in-one marketing platform designed to help small and local businesses establish a strong digital presence effortlessly.
 From generating websites to creating marketing content and business strategies, BizSolve leverages AI to simplify and automate the entire marketing workflow — no technical expertise required.
 
 **💡 Problem We Solve**
+
 Small businesses often struggle with:
 
 ❌ Lack of marketing knowledge
@@ -19,8 +22,10 @@ Small businesses often struggle with:
 **👉 BizSolve solves all of this using AI automation**
 
 
-**✨ Key Features
-🧠 AI Founder Assistant**
+**✨ Key Features**
+
+**🧠 AI Founder Assistant**
+
 Get smart business insights instantly:
 
 Growth strategies
@@ -32,6 +37,7 @@ Marketing guidance
 Context-aware responses using your business data
 
 **🌐 Website Generator**
+
 Generate complete marketing websites in seconds
 
 Auto-deploy with a live link
@@ -41,6 +47,7 @@ Edit using simple prompts
 Built for lead generation (not e-commerce)
 
 **🎨 Poster Generator**
+
 Create professional marketing posters for:
 
 🎉 Festivals
@@ -64,6 +71,7 @@ Readable text
 Brand consistency
 
 **✉️ Email Generator**
+
 Generate marketing emails instantly
 
 Campaign-ready content
@@ -73,6 +81,7 @@ Uses brand tone and context
 Designed for outreach automation
 
 **📦 BrandVault (Core Feature)**
+
 Your brand’s digital brain:
 
 Stores:
@@ -90,14 +99,17 @@ Media assets
 👉 Automatically used across all features for consistency
 
 **💬 Chat Logs**
+
 Stores AI conversations
 
 Maintains context
 
 Improves response quality over time
 
-**🏗️ Tech Stack
-🖥️ Frontend**
+**🏗️ Tech Stack**
+
+**🖥️ Frontend**
+
 React (Vite)
 
 Tailwind CSS
@@ -105,6 +117,7 @@ Tailwind CSS
 Axios
 
 **⚙️ Backend**
+
 FastAPI
 
 Python
@@ -113,22 +126,27 @@ JWT Authentication
 
 
 **🗄️ Database**
+
 MongoDB Atlas
 
 **🤖 AI Integration**
+
 Google GenAI SDK (google-genai)
 
 **☁️ Media Storage**
+
 Cloudinary
 
 
 
 **🧩 System Architecture**
+
 <img width="387" height="530" alt="image" src="https://github.com/user-attachments/assets/34f7aff9-fdc8-4dce-a188-2c72415b025a" />
 
 **⚙️ Getting Started**
 
 **1️⃣ Clone Repository**
+
 git clone https://github.com/your-username/bizsolve-ai.git
 
 cd bizsolve-ai
