@@ -126,7 +126,7 @@ Cloudinary
 
 **⚙️ Getting Started**
 **1️⃣ Clone Repository**
-git clone [https://github.com/your-username/bizsolve-ai.git
+git clone https://github.com/your-username/bizsolve-ai.git
 cd bizsolve-ai
 **2️⃣ Backend Setup**
 cd backend
