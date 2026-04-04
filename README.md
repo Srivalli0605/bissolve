@@ -106,7 +106,9 @@ Axios
 
 **⚙️ Backend**
 FastAPI
+
 Python
+
 JWT Authentication
 
 
@@ -125,30 +127,70 @@ Cloudinary
 <img width="387" height="530" alt="image" src="https://github.com/user-attachments/assets/34f7aff9-fdc8-4dce-a188-2c72415b025a" />
 
 **⚙️ Getting Started**
+
 **1️⃣ Clone Repository**
 git clone https://github.com/your-username/bizsolve-ai.git
+
 cd bizsolve-ai
+
 **2️⃣ Backend Setup**
+
 cd backend
+
 pip install -r requirements.txt
+
 uvicorn main:app --reload
+
+
 **3️⃣ Frontend Setup**
+
 cd frontend
+
 npm install
+
 npm run dev
-📦 Requirements
+
+**📦 Requirements**
+
 Make sure you have:
+
 Python 3.9+
+
 Node.js (v16+)
+
 npm 
+
 MongoDB Atlas account
+
 Cloudinary account
+
 Google GenAI API key
 
-⚙️ How It Works
+**Your .env should have**
+MONGO_URI=
+
+CLOUDINARY_CLOUD_NAME=
+
+CLOUDINARY_API_KEY=
+
+CLOUDINARY_API_SECRET=
+
+GEMINI_API_KEY=
+
+UNSPLASH_ACCESS_KEY=
+
+PEXELS_API_KEY=
+
+VERCEL_TOKEN=
+
+**⚙️ How It Works**
+
 1️⃣ User registers and adds business details
+
 2️⃣ Data is stored in BrandVault
+
 3️⃣ AI uses this data to generate:
+
 
 Websites
 
@@ -159,8 +201,11 @@ Emails
 Business insights
 
 **4️⃣ Outputs are saved and reusable**
+
 🚀 Future Scope
+
 📅 Campaign scheduling
+
 
 🌍 Multi-language support
 
@@ -173,6 +218,7 @@ Business insights
 
 
 **💎 Why BizSolve?**
+
 Instead of using multiple tools for marketing, BizSolve brings everything into one intelligent platform powered by AI.
 
 
